@@ -1,5 +1,5 @@
-## 👋 About me
-Hi there, my name is Jason. I love data analytics and mobile app development.
+## 👋 Hi there
+My name is Jason Siu. I love data analytics and mobile app development.
 
 - 🔭 I’m currently studying at [Monash University, Au](https://www.monash.edu/)
 - 💻 I can speak English, Mandarin, Cantonese, Italian.
