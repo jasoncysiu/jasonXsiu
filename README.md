@@ -2,7 +2,7 @@
 My name is Jason Siu. I love data analytics and mobile app development.
 
 - 🔭 I’m currently studying at [Monash University, Australia](https://www.monash.edu/)
-- 💻 I can speak English, Mandarin, Cantonese, Italian.
+- 💻 I can speak English, Mandarin, Cantonese, and Italian.
 - 💬 Ask me about R, Python, Java, and Swift.
 - 😄 Pronouns: He/Him.
 
