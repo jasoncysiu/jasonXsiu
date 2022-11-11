@@ -1,4 +1,4 @@
-## 👋 Hi there
+## 👋 Hello world
 ### My name is Jason Siu. I love data analytics and mobile app development.
 
 - 🔭 I’m currently studying at [Monash University, Australia](https://www.monash.edu/)
